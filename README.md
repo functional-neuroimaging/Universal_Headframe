@@ -40,7 +40,7 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 | 2 | **Top headplate clamp** NT_NCS002_001_P_002 | 1 | SS 304 | Quick-release half-bridge |
 | 3 | **Bottom headplate clamp** NT_NCS002_001_P_003 | 1 | SS 304 | Matches Allen bevel | 
 | 4 | **Thorlabs pillar adapter** NT_NCS002_001_P_004 | 1 | SS 304 | Ø6 mm → Ø25 mm | 
-| 5 | ISO 4026 M3×5 grub-screw | 4 | - | locking pins |
+| 5 | ISO 4026 M3×5 grub-screw | 2 | - | locking pins |
 | 6 | ISO 4026 M3×8 grub-screw | 1 | - | axial stop |
 | 7 | ISO 4762 M3 cap-screws (various 5–20 mm) | 6 | - | assembly |  
 
