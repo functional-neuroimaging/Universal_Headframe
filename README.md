@@ -64,8 +64,6 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 4. **Clamp in** – slide the headplate under the bevel, tighten the single cap screw to 0.6 N m.  
 5. **Verify run-out** – with an indicator on the headplate centre pad; <3 µm is typical.  
 
-A complete photographic walkthrough is in `docs/assembly_guide.md`.
-
 ---
 
 ## 6. Compatibility matrix  
@@ -75,7 +73,7 @@ A complete photographic walkthrough is in `docs/assembly_guide.md`.
 | Wide-field mesoscope | ✅ | 200 mm working distance clears clamp |
 | 2-photon 10× (Nikon A1R MP) | ✅ | headplate cone variant NT_NCS002_HP-C |
 | Neuropixels v1.0/v2.0 | ✅ | uses Allen transparent coordinate frame |
-| Focused-Ultrasound (mini-FUS) | 🔄 | compatible cone in prototype (M. Urosevic) |
+| Functional -Ultrasound (FUS) | 🔄 | compatible cone in prototype (M. Urosevic) |
 
 ---
 
