@@ -5,6 +5,7 @@ IIT-Rovereto Modular Mouse Headframe Clamp
 > *Design series NT_NCS002* – by **Fabio Ricci** & **Giuliano Iurilli**, IIT Center for Neuroscience and Cognitive Systems, Rovereto (Italy), 2024 – 25
 
 ---
+![323248352-13070441-1c27-4a35-8a60-9cb97c2f6576](https://github.com/user-attachments/assets/3187643e-2b83-4cff-a5cb-b85204659397)
 
 ## 1. Purpose  
 
