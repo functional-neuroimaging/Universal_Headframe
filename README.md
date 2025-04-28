@@ -79,17 +79,7 @@ A complete photographic walkthrough is in `docs/assembly_guide.md`.
 
 ---
 
-## 7. Quick-start for a new lab  
-
-```bash
-git clone https://github.com/<your-org>/nt_ncs002_headframe.git
-cd nt_ncs002_headframe
-# open STEP files in your preferred CAM
-```
-
----
-
-## 8. License  
+## 7. License  
 
 All hardware documentation is released under **CERN-OHL-P v2**.  
 You may manufacture and modify freely; derivatives must retain the same license and attribution.
@@ -97,7 +87,7 @@ You may manufacture and modify freely; derivatives must retain the same license 
 ---
 
 
-## 9. Acknowledgements  
+## 8. Acknowledgements  
 
 * Allen Institute open-hardware programme – for the original dual-hemisphere clamp design and coordinate frame  ([Toolkit - brain-map.org](https://portal.brain-map.org/explore/toolkit/hardware?utm_source=chatgpt.com)).  
 * Iurilli laboratories for beta-testing across imaging and electrophysiology
