@@ -43,16 +43,15 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 | 5 | ISO 4026 M3×5 grub-screw | 4 | - | locking pins |
 | 6 | ISO 4026 M3×8 grub-screw | 1 | - | axial stop |
 | 7 | ISO 4762 M3 cap-screws (various 5–20 mm) | 6 | - | assembly |  
-| 8 | ISO 4032 M2.5 nuts | 2 | - | optional sensor bracket | 
 
 ---
 
 ## 4. Fabrication guidelines  
 
 * **CNC milling**: 3-axis is sufficient; minimum cutter Ø 2 mm.  
-* **Tolerance**: unless stated, apply ISO 2768-mK; critical datums A/B/C are ±10 µm.  
+* **Tolerance**: unless stated,Dimensional Tolerance class -H Geometric Tolerance class -f, General tolerancesUNI EN 22768-1 / 22768-2 UNI ISO 8015
 * **Surface finish**: Ra ≤ 1.6 µm on all mating faces; tumble-debur & passivate.  
-* **Headplate**: Ti-6Al-4V, 0.8 mm thick. The model in `/cad/headplate_variants/` may be water-jet cut and stress-relieved.  
+* **Headplate**: Ti-6Al-4V, 0.8 mm thick. The models in `/headplate_variants/` may be water-jet cut and stress-relieved or 3D printed by external manufacturer.  
 
 ---
 
