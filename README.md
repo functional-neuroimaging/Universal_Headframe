@@ -61,7 +61,6 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 2. **Square to bregma** – fix the stereotaxic mount on the arm; use the printed bregma pointer to zero X/Y/Z.  
 3. **Attach headplate to mouse** – follow your usual surgical SOP.  
 4. **Clamp in** – slide the headplate under the bevel, tighten the single cap screw to 0.6 N m.  
-5. **Verify run-out** – with an indicator on the headplate centre pad; <3 µm is typical.  
 
 ---
 
