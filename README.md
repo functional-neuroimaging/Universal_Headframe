@@ -51,7 +51,7 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 * **CNC milling**: 3-axis is sufficient; minimum cutter Ø 2 mm.  
 * **Tolerance**: unless stated,Dimensional Tolerance class -H Geometric Tolerance class -f, General tolerancesUNI EN 22768-1 / 22768-2 UNI ISO 8015
 * **Surface finish**: Ra ≤ 1.6 µm on all mating faces; tumble-debur & passivate.  
-* **Headplate**: Ti-6Al-4V, 0.8 mm thick. The models in `/headplate_variants/` may be water-jet cut and stress-relieved or 3D printed by external manufacturer.  
+* **Headplate**: Ti-6Al-4V, 0.8 mm thick. The models in `/headplate_variants/` may be water-jet cut and bent or 3D printed by external manufacturer.  
 
 ---
 
