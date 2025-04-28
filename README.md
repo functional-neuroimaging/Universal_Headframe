@@ -14,7 +14,7 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 * registers a titanium headplate (≈ 1.4 g) with micron-level repeatability;  
 * mates directly to standard Thorlabs Ø25 mm pillars or to a stereotaxic frame;  
 * keeps the visual field unobstructed (design lineage: Allen Brain Observatory headframe);  
-* survives running-mouse loads – static and dynamic deflection were bench-tested as in Ricci et al. 2020  ([Toolkit - brain-map.org](https://portal.brain-map.org/explore/toolkit/hardware?utm_source=chatgpt.com));  
+* survives running-mouse loads – static and dynamic deflection were bench-tested as in Ricci et al. 2020  ([P.A. Groblewski et al](https://www.sciencedirect.com/science/article/pii/S0165027020303459));  
 * offers a kinematic reference that lets us reuse Allen Institute probe-positioning jigs and transparent hemisphere coordinate frames.
 
 ---
@@ -26,8 +26,7 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 ├─ cad/               STEP
 ├─ drawings/          Dimensioned PDFs (NT_NCS002_001_P_001-004)
 ├─ bom/               CSV bill-of-materials
-├─ images/            Renders & photographs for your README/wiki
-└─ scripts/           Helper macros (e.g. export-STL.ps1)
+└─  images/            Renders & photographs for your README/wiki
 ```
 
 ---
