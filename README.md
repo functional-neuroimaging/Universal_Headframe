@@ -13,7 +13,7 @@ Sharing mice and rigs across projects is much simpler when the mechanical interf
 This repository provides the CAD, manufacturing drawings and assembly notes for the headframe clamp we use in the Gozzi, Iurilli and Rossi labs. The clamp:
 
 * registers a titanium headplate (≈ 1.4 g) with micron-level repeatability;  
-* mates directly to standard Thorlabs Ø25 mm pillars or to a stereotaxic frame;  
+* mates directly to standard Thorlabs metric pillars or to a stereotaxic frame;  
 * keeps the visual field unobstructed (design lineage: Allen Brain Observatory headframe);  
 * survives running-mouse loads – static and dynamic deflection were bench-tested as ([P.A. Groblewski et al](https://www.sciencedirect.com/science/article/pii/S0165027020303459));  
 * offers a kinematic reference that lets us reuse Allen Institute probe-positioning jigs and transparent hemisphere coordinate frames.
@@ -39,7 +39,7 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 | 1 | **Stereotaxic mount** NT_NCS002_001_P_001 | 1 | SS 304 | Mates to KOPF/ASI frames |
 | 2 | **Top headplate clamp** NT_NCS002_001_P_002 | 1 | SS 304 | Quick-release half-bridge |
 | 3 | **Bottom headplate clamp** NT_NCS002_001_P_003 | 1 | SS 304 | Matches Allen bevel | 
-| 4 | **Thorlabs pillar adapter** NT_NCS002_001_P_004 | 1 | SS 304 | Ø6 mm → Ø25 mm | 
+| 4 | **Thorlabs pillar adapter** NT_NCS002_001_P_004 | 1 | SS 304 | Ø6 mm → Ø12.5 mm | 
 | 5 | ISO 4026 M3×5 grub-screw | 2 | - | locking pins |
 | 6 | ISO 4026 M3×8 grub-screw | 1 | - | axial stop |
 | 7 | ISO 4762 M3 cap-screws (various 5–20 mm) | 6 | - | assembly |  
@@ -48,10 +48,10 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 
 ## 4. Fabrication guidelines  
 
-* **CNC milling**: 3-axis is sufficient; minimum cutter Ø 2 mm.  
+* **CNC milling**: 3-axis is sufficient; minimum cutter Ø 1.6 mm.  
 * **Tolerance**: unless stated,Dimensional Tolerance class -H Geometric Tolerance class -f, General tolerancesUNI EN 22768-1 / 22768-2 UNI ISO 8015
 * **Surface finish**: Ra ≤ 1.6 µm on all mating faces; tumble-debur & passivate.  
-* **Headplate**: Ti-6Al-4V, 0.8 mm thick. The models in `/headplate_variants/` may be water-jet cut and bent or 3D printed by external manufacturer.  
+* **Headplate**: Ti-TC4, 1.6 mm thick. The models in `/headplate_variants/` may be water-jet cut and bent or 3D printed by external manufacturer.  
 
 ---
 
@@ -60,7 +60,7 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 1. **Pre-load the clamp** – insert the M3 grub screws from the rear until flush.  
 2. **Square to bregma** – fix the stereotaxic mount on the arm; use the printed bregma pointer to zero X/Y/Z.  
 3. **Attach headplate to mouse** – follow your usual surgical SOP.  
-4. **Clamp in** – slide the headplate under the bevel, tighten the single cap screw to 0.6 N m.  
+4. **Clamp in** – slide the headplate under the bevel, tighten the single cap screw.  
 
 ---
 
