@@ -27,7 +27,7 @@ This repository provides the CAD, manufacturing drawings and assembly notes for 
 ├─ cad/               STEP
 ├─ drawings/          Dimensioned PDFs (NT_NCS002_001_P_001-004)
 ├─ bom/               CSV bill-of-materials
-├─headplate_variants/ Headplates STEP files
+├─ headplate_variants/ Headplates STEP files
 └─ images/            Renders
 ```
 
